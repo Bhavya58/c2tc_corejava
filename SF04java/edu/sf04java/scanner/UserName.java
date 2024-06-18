@@ -1,4 +1,4 @@
-package scanner;
+package edu.sf04java.scanner;
 
 import java.util.Scanner;
 
